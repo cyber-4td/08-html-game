@@ -1,0 +1,97 @@
+
+hezi_shang.png
+size: 421,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow2
+  rotate: false
+  xy: 2, 9
+  size: 204, 284
+  orig: 204, 284
+  offset: 0, 0
+  index: -1
+hz_shangce
+  rotate: true
+  xy: 388, 126
+  size: 167, 31
+  orig: 167, 31
+  offset: 0, 0
+  index: -1
+hz_shanggai
+  rotate: true
+  xy: 294, 126
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1
+hz_yougai
+  rotate: false
+  xy: 208, 14
+  size: 84, 279
+  orig: 84, 279
+  offset: 0, 0
+  index: -1
+lihua_1
+  rotate: false
+  xy: 360, 72
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+lihua_2
+  rotate: true
+  xy: 345, 19
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+lihua_3
+  rotate: false
+  xy: 393, 46
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+lihua_4
+  rotate: true
+  xy: 294, 14
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+lihua_5
+  rotate: false
+  xy: 365, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+lihua_6
+  rotate: false
+  xy: 365, 34
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+lihua_7
+  rotate: false
+  xy: 208, 2
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+lihua_8
+  rotate: false
+  xy: 392, 80
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 294, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
